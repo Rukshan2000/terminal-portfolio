@@ -2,7 +2,7 @@ export const fileSystem = {
     "~/portfolio": {
       "about.txt": `[PERSONAL INFO]
   Name: Rukshan Tharindu
-  Role: Senior Frontend Developer
+  Role: Associate Software Engineer
   Location: Colombo, Sri Lanka 🇱🇰
   Experience: 5+ years in web development
   
@@ -12,7 +12,7 @@ export const fileSystem = {
   been exploring the ecosystem ever since.
   
   I'm passionate about creating tools that solve real problems while maintaining clean, maintainable code.
-  Currently working at AtmoTechnologies where I lead frontend development for enterprise applications.
+  Currently working at BreadCrumbs-Innovations where I lead frontend development for enterprise applications.
   
   [EDUCATION]
   - B.Sc. Computer Science (2018) - University of Colon

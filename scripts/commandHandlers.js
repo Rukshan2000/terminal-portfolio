@@ -144,7 +144,7 @@ function handleWhoamiCommand() {
   showInOutput(`<div class="flex items-start mb-4">
     <div class="bg-gray-800 p-4 rounded w-full">
       <div class="text-white font-bold text-lg mb-2">Rukshan Tharindu</div>
-      <div class="text-gray-300 mb-1">Senior Frontend Developer @ AtmoTechnologies</div>
+      <div class="text-gray-300 mb-1">Associate Software Engineer @ BreadCrumbs-Innovations</div>
       <div class="text-gray-400 text-sm mb-2">Colombo, Sri Lanka 🇱🇰</div>
       <div class="text-gray-300 text-sm">
         5+ years building modern web applications with React, TypeScript and Firebase
